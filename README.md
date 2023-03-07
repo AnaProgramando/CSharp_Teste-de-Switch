@@ -69,5 +69,5 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/https://github.com/AnaProgramando/CSharp_Teste-de-Switch/blob/eff0731dd4bdf9a302758aa64ff69b6d3dba894f/s.gif"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Teste-de-Switch/blob/d69841140bb3ce4a89326255e96ecfa0345fa40d/s.gif"/>
 </div>
